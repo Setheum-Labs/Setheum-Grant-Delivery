@@ -1,2 +1,2 @@
-# SettFund Open Grant Delivery
+# SettFund Grant Delivery
 Repository to submit finished milestones 
